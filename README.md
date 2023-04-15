@@ -34,12 +34,11 @@ Use:
 
 ###### SailorBanner
 ```SailorBanner``` is a banner grabber for websites.
-Use:
 
   ``` run sailorbanner```
 
 Use:
-   
-   ```Donate```
    BTC
+   ```Donate```
+   
    bc1qdtjm45p899kkg34nzv3gqksq6zu3zz4k06mrmg
